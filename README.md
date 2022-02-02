@@ -1,2 +1,2 @@
-# Wettkampf-Software-Zimmer
+# Wettkampf-Software Zimmer
 Repository for Wettkampf-Software Zimmer
